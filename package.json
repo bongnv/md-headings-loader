@@ -1,0 +1,32 @@
+{
+  "name": "@bongnv/md-headings-loader",
+  "version": "0.0.0-development",
+  "description": "A webpack load to load headings from a parsed markdown",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "semantic-release": "semantic-release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bongnv/md-headings-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "markdown",
+    "loader",
+    "headings"
+  ],
+  "author": "Bong Nguyen",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bugs": {
+    "url": "https://github.com/bongnv/md-headings-loader/issues"
+  },
+  "homepage": "https://github.com/bongnv/md-headings-loader#readme",
+  "devDependencies": {
+    "semantic-release": "^17.0.7"
+  }
+}
